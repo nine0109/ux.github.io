@@ -4,7 +4,7 @@
  <title>UX Design</title>
  <link href="https://nine0109.github.io//atom.xml" rel="self"/>
  <link href="https://nine0109.github.io//"/>
- <updated>2022-02-10T14:26:03+09:00</updated>
+ <updated>2022-02-10T14:37:26+09:00</updated>
  <id>https://nine0109.github.io</id>
  <author>
    <name>Mark Otto</name>
@@ -22,6 +22,10 @@
 &lt;p&gt;UX 디자인&lt;/p&gt;
 
 &lt;p&gt;본 블로그는 &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;을 사용해,&lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;테마로 제작했습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;/public/img/image.png&quot; alt=&quot;Image Alt 텍스트&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on , the Jekyll butler.&lt;/p&gt;
 
