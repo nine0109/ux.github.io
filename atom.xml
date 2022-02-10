@@ -4,7 +4,7 @@
  <title>UX Design</title>
  <link href="https://nine0109.github.io//atom.xml" rel="self"/>
  <link href="https://nine0109.github.io//"/>
- <updated>2022-02-10T14:37:26+09:00</updated>
+ <updated>2022-02-10T20:57:09+09:00</updated>
  <id>https://nine0109.github.io</id>
  <author>
    <name>Mark Otto</name>
@@ -22,10 +22,6 @@
 &lt;p&gt;UX 디자인&lt;/p&gt;
 
 &lt;p&gt;본 블로그는 &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;을 사용해,&lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;테마로 제작했습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;/public/img/image.png&quot; alt=&quot;Image Alt 텍스트&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on , the Jekyll butler.&lt;/p&gt;
 
@@ -69,10 +65,16 @@
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="https://nine0109.github.io/2020/04/03/introducing-lanyon/"/>
-   <updated>2020-04-03T00:00:00+09:00</updated>
-   <id>https://nine0109.github.io//2020/04/03/introducing-lanyon</id>
-   <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <link href="https://nine0109.github.io/2022/02/10/introducing-copy-2/"/>
+   <updated>2022-02-10T00:00:00+09:00</updated>
+   <id>https://nine0109.github.io//2022/02/10/introducing copy 2</id>
+   <content type="html">&lt;p&gt;안녕하세요. UX 디자이너 김원규입니다.&lt;/p&gt;
+
+&lt;p&gt;UX 디자인&lt;/p&gt;
+
+&lt;p&gt;본 블로그는 &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;을 사용해,&lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;테마로 제작했습니다.&lt;/p&gt;
+
+&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on , the Jekyll butler.&lt;/p&gt;
 
 &lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
 
@@ -113,10 +115,10 @@
  </entry>
  
  <entry>
-   <title>Example content</title>
-   <link href="https://nine0109.github.io/2020/04/02/example-content/"/>
-   <updated>2020-04-02T00:00:00+09:00</updated>
-   <id>https://nine0109.github.io//2020/04/02/example-content</id>
+   <title>layout</title>
+   <link href="https://nine0109.github.io/2020/02/16/layout/"/>
+   <updated>2020-02-16T00:00:00+09:00</updated>
+   <id>https://nine0109.github.io//2020/02/16/layout</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -246,10 +248,10 @@
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="https://nine0109.github.io/2020/04/01/whats-jekyll/"/>
-   <updated>2020-04-01T00:00:00+09:00</updated>
-   <id>https://nine0109.github.io//2020/04/01/whats-jekyll</id>
+   <title>Colors</title>
+   <link href="https://nine0109.github.io/2020/02/15/colors/"/>
+   <updated>2020-02-15T00:00:00+09:00</updated>
+   <id>https://nine0109.github.io//2020/02/15/colors</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -259,6 +261,51 @@
 &lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Lanyon.&lt;/p&gt;
 
 &lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Atomic</title>
+   <link href="https://nine0109.github.io/2020/02/14/atomic/"/>
+   <updated>2020-02-14T00:00:00+09:00</updated>
+   <id>https://nine0109.github.io//2020/02/14/atomic</id>
+   <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+
+&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
+
+&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
+  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
+  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lanyon-features&quot;&gt;Lanyon features&lt;/h3&gt;
+
+&lt;p&gt;In addition to the features of Poole, Lanyon adds the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
+  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
+  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/poole/lanyon#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
+
+&lt;p&gt;Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
+
+&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
 </content>
  </entry>
  
