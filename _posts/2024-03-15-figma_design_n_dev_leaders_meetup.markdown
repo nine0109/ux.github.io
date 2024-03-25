@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design & Dev Leaders Meetup in Seoul"
-date:   2024-03-5 19:00:00 +0900
+date:   2024-03-25 19:00:00 +0900
 categories: Figma
 typora-root-url: ../
 ---
