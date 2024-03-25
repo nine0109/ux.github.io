@@ -7,7 +7,7 @@ typora-root-url: ../
 ---
 
 2024년 3월 15일 금요일
-피그마 디자인 & 데브 리더 모임이 서울에서 있었습니다.
+피그마 디자인 & 데브 리더 모임을 다녀왔다.
 
 
 ![figma](/assets/Img_240315/figma_240315_01.jpg){:height="150px" width="150px"}
@@ -180,3 +180,9 @@ DEV모드는 핸드오프를 통해 개발에 전달하는 것이 아닌 개발�
 ![figma](/assets/Img_240315/figma_240315_126.jpg){:height="150px" width="150px"}
 ![figma](/assets/Img_240315/figma_240315_128.jpg){:height="150px" width="150px"}
 ![figma](/assets/Img_240315/figma_240315_130.jpg){:height="150px" width="150px"}
+
+# 마치며
+디자인 시스템은 일관성있는 자원과 관리를 넘어 제품 전반에 걸친 생산성으로 확대해 나가고 있다.
+피그마 Dev Mode는 디자인 시스템 개발을 체계화했다.
+
+이를 구축하기 위해선 콤포넌트의 State 네이밍 정의시 개밡팀과의
