@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-24T23:32:29+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Q</title><subtitle>UX소식</subtitle><entry><title type="html">Design &amp;amp; Dev Leaders Meetup in Seoul</title><link href="http://localhost:4000/figma/2024/03/05/figma_design_n_dev_leaders_meetup.html" rel="alternate" type="text/html" title="Design &amp;amp; Dev Leaders Meetup in Seoul" /><published>2024-03-05T19:00:00+09:00</published><updated>2024-03-05T19:00:00+09:00</updated><id>http://localhost:4000/figma/2024/03/05/figma_design_n_dev_leaders_meetup</id><content type="html" xml:base="http://localhost:4000/figma/2024/03/05/figma_design_n_dev_leaders_meetup.html"><![CDATA[<p>2024년 3월 15일 금요일
-피그마 디자인 &amp; 데브 리더 모임이 서울에서 있었습니다.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-25T09:42:04+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Q</title><subtitle>UX소식</subtitle><entry><title type="html">Design &amp;amp; Dev Leaders Meetup in Seoul</title><link href="http://localhost:4000/figma/2024/03/05/figma_design_n_dev_leaders_meetup.html" rel="alternate" type="text/html" title="Design &amp;amp; Dev Leaders Meetup in Seoul" /><published>2024-03-05T19:00:00+09:00</published><updated>2024-03-05T19:00:00+09:00</updated><id>http://localhost:4000/figma/2024/03/05/figma_design_n_dev_leaders_meetup</id><content type="html" xml:base="http://localhost:4000/figma/2024/03/05/figma_design_n_dev_leaders_meetup.html"><![CDATA[<p>2024년 3월 15일 금요일
+피그마 디자인 &amp; 데브 리더 모임을 다녀왔다.</p>
 
 <p><img src="/assets/Img_240315/figma_240315_01.jpg" alt="figma" height="150px" width="150px" />
 <img src="/assets/Img_240315/figma_240315_03.jpg" alt="figma" height="150px" width="150px" />
@@ -168,4 +168,9 @@
 <img src="/assets/Img_240315/figma_240315_125.jpg" alt="figma" height="150px" width="150px" />
 <img src="/assets/Img_240315/figma_240315_126.jpg" alt="figma" height="150px" width="150px" />
 <img src="/assets/Img_240315/figma_240315_128.jpg" alt="figma" height="150px" width="150px" />
-<img src="/assets/Img_240315/figma_240315_130.jpg" alt="figma" height="150px" width="150px" /></p>]]></content><author><name></name></author><category term="Figma" /><summary type="html"><![CDATA[2024년 3월 15일 금요일 피그마 디자인 &amp; 데브 리더 모임이 서울에서 있었습니다.]]></summary></entry></feed>
+<img src="/assets/Img_240315/figma_240315_130.jpg" alt="figma" height="150px" width="150px" /></p>
+
+<h1 id="마치며">마치며</h1>
+<p>디자인 시스템은 일관성있는 자원과 관리를 넘어 제품 전반에 걸친 생산성으로 확대해 나가고 있다.
+Dev Mode는 디자인 시스템에서 가장 이상적으로 생각하는 디자인과 개발을 하나의 언어로 풀어 쓰는 것이다.
+제품의 관점에서 구현 상태를 알 수 있는 청사진과 같다.</p>]]></content><author><name></name></author><category term="Figma" /><summary type="html"><![CDATA[2024년 3월 15일 금요일 피그마 디자인 &amp; 데브 리더 모임을 다녀왔다.]]></summary></entry></feed>
