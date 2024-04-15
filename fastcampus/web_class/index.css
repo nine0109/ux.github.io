@@ -1,0 +1,49 @@
+button {
+    background-color: transparent;
+    border: none;
+}
+
+header {
+    display: flex;
+}
+
+#logo {
+    height: 64px;
+    cursor: pointer;
+}
+
+#little-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #DDDDDD;
+    border-radius: 40px;
+    min-width: 335px;
+}
+
+.little-search_button {
+    padding: 0 16px;
+    white-space: nowrap;
+
+}
+
+.divider {
+    flex-basis: 1px;
+    background-color: #DDDDDD;
+    height: 24px;
+}
+
+#magnifying-glass-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF385C;
+    flex-basis: 32px;
+    flex-shrink: 0;
+    height: 32px;
+    border-radius: 50%;
+}
+
+#magnifying-glass-icon {
+    width: 12px;
+}
